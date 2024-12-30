@@ -1,0 +1,9 @@
+/* Correct CSS */
+#myId {
+  color: blue;
+  background-color: yellow;
+}
+/* Added styles to ensure there are more styles*/
+.anotherClass {
+  font-size: 16px;
+}
