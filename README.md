@@ -1,0 +1,1 @@
+This repository demonstrates a common CSS error: a typo in a selector and an extra closing brace. The `bug.css` file contains the erroneous code, while `bugSolution.css` provides the corrected version.  The error leads to unexpected styling behavior. The solution shows how to correctly target elements and avoid extra braces.
