@@ -1,0 +1,1 @@
+The CSS code has a typo in the selector, causing it to not apply styles correctly.  The selector `.myClass` is used, but should be `#myId` if applying styles to an element with the ID "myId".  Additionally, there is an extra closing curly brace `}` at the end of the stylesheet.
